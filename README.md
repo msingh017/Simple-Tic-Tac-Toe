@@ -1,1 +1,1 @@
-# Simple-Tic-Tac-Toe-master
+# Simple-Tic-Tac-Toe
